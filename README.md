@@ -140,50 +140,10 @@ The `ProtectedAdmin` component guards the dashboard route — unauthenticated us
 
 ---
 
-## 🌐 Deployment
-
-The frontend is deployed on **Netlify**.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/placeholder/deploy-status)](https://apoorv-my-portfolio.netlify.app/)
-
-To deploy your own fork:
-
-1. Push to GitHub
-2. Connect the repo to [Netlify](https://netlify.com)
-3. Set the build command: `npm run build`
-4. Set the publish directory: `dist`
-5. Add the `VITE_API_URL` environment variable in Netlify settings
-
----
 
 ## 👤 About Me
 
 **Apoorv Singh** — MERN Stack Developer from Bhopal, India.
-
-- 🎓 B.Tech CSE — Sagar Institute of Science and Technology (CGPA: 7.88)
-- 💼 Open to full-time opportunities
-- 🏆 5★ HackerRank · 3★ CodeChef · 200+ LeetCode problems
-- 🔐 Cybersecurity background — MP Police Cyber Cell
-
-### Certifications
-
-- Problem Solving Intermediate — HackerRank
-- Advance Java — CodeChef
-- Linux System Administration
-- IIRS Geoprocessing using Python — ISRO/IIRS
-
----
-
-## 📬 Contact
-
-| Platform     | Link                                                                          |
-| ------------ | ----------------------------------------------------------------------------- |
-| 📧 Email     | singhapoorv350@gmail.com                                                      |
-| 💼 LinkedIn  | [apoorv-singh-a7b79b224](https://www.linkedin.com/in/apoorv-singh-a7b79b224/) |
-| 🐙 GitHub    | [Apoorv3826](https://github.com/Apoorv3826)                                   |
-| 🌐 Portfolio | [apoorv-my-portfolio.netlify.app](https://apoorv-my-portfolio.netlify.app/)   |
-
----
 
 ## 📄 License
 
