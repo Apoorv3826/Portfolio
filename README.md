@@ -4,9 +4,6 @@
 
 **A full-stack personal portfolio with a built-in CMS-style Admin Dashboard**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-apoorv--my--portfolio.netlify.app-6c63ff?style=for-the-badge)](https://apoorv-my-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Apoorv3826-181717?style=for-the-badge&logo=github)](https://github.com/Apoorv3826)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorv_Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apoorv-singh-a7b79b224/)
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
