@@ -4,14 +4,13 @@
 
 **A full-stack personal portfolio with a built-in CMS-style Admin Dashboard**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-apoorv--my--portfolio.netlify.app-6c63ff?style=for-the-badge)](https://apoorv-my-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Apoorv3826-181717?style=for-the-badge&logo=github)](https://github.com/Apoorv3826)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorv_Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apoorv-singh-a7b79b224/)
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![React](https://img.shields.io/badge/UI-React_19-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Build-Vite_8-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Styling-Tailwind_CSS_4-06B6D4?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Animation-Framer_Motion-0055FF?logo=framer&logoColor=white)
+![React Router](https://img.shields.io/badge/Routing-React_Router_v7-CA4245?logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/HTTP-Axios-5A29E4?logo=axios&logoColor=white)
+![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
 
 </div>
 
@@ -143,50 +142,10 @@ The `ProtectedAdmin` component guards the dashboard route — unauthenticated us
 
 ---
 
-## 🌐 Deployment
-
-The frontend is deployed on **Netlify**.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/placeholder/deploy-status)](https://apoorv-my-portfolio.netlify.app/)
-
-To deploy your own fork:
-
-1. Push to GitHub
-2. Connect the repo to [Netlify](https://netlify.com)
-3. Set the build command: `npm run build`
-4. Set the publish directory: `dist`
-5. Add the `VITE_API_URL` environment variable in Netlify settings
-
----
 
 ## 👤 About Me
 
 **Apoorv Singh** — MERN Stack Developer from Bhopal, India.
-
-- 🎓 B.Tech CSE — Sagar Institute of Science and Technology (CGPA: 7.88)
-- 💼 Open to full-time opportunities
-- 🏆 5★ HackerRank · 3★ CodeChef · 200+ LeetCode problems
-- 🔐 Cybersecurity background — MP Police Cyber Cell
-
-### Certifications
-
-- Problem Solving Intermediate — HackerRank
-- Advance Java — CodeChef
-- Linux System Administration
-- IIRS Geoprocessing using Python — ISRO/IIRS
-
----
-
-## 📬 Contact
-
-| Platform     | Link                                                                          |
-| ------------ | ----------------------------------------------------------------------------- |
-| 📧 Email     | singhapoorv350@gmail.com                                                      |
-| 💼 LinkedIn  | [apoorv-singh-a7b79b224](https://www.linkedin.com/in/apoorv-singh-a7b79b224/) |
-| 🐙 GitHub    | [Apoorv3826](https://github.com/Apoorv3826)                                   |
-| 🌐 Portfolio | [apoorv-my-portfolio.netlify.app](https://apoorv-my-portfolio.netlify.app/)   |
-
----
 
 ## 📄 License
 
